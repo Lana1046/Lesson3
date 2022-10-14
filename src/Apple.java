@@ -1,4 +1,4 @@
-ublic class Apple extends Fruit {
+public class Apple extends Fruit {
     @Override
     float getWeight() {
         return 1.0f;
